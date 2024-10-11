@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://khessarin.vercel.app/](https://khessarin.vercel.app/)
-
-- 📝 I regularly write articles on [https://khessarin.vercel.app/](https://khessarin.vercel.app/)
-
 - 💬 Ask me about **React and Next.js**
 
 - 📫 How to reach me **khessarin@gmail.com**
